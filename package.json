@@ -6,6 +6,7 @@
 	"author": "Rujal",
 	"description": "I am learning from fcc",
 	"keywords": ["Tii", "learning", "Ruu", "freeCodeCamp"],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
