@@ -5,6 +5,7 @@
 	},
 	"author": "Rujal",
 	"description": "I am learning from fcc",
+	"keywords": ["Tii", "learning", "Ruu"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
