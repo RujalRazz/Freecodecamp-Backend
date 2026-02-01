@@ -5,7 +5,7 @@
 	},
 	"author": "Rujal",
 	"description": "I am learning from fcc",
-	"keywords": ["Tii", "learning", "Ruu"],
+	"keywords": ["Tii", "learning", "Ruu", "freeCodeCamp"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
